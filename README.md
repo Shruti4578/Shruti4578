@@ -19,8 +19,8 @@
 📂 Projects
 Here are some of the projects I have worked on.
 
-- 🌱 [GreenLife](https://github.com/Shruti4578/Green-Life-A-Sustainable-Living-Tracker-App.git) – Sustainable living tracker app promoting eco-friendly actions with     challenges and rewards.  
-- 🔐 [Auth App](https://github.com/Shruti4578/Auth_app_test.git) – Demo app showcasing authentication flows and REST API integration with mock backend.
+- 🌱 GreenLife: Sustainable Living Tracker -(https://github.com/Shruti4578/Green-Life-A-Sustainable-Living-Tracker-App.git) – Sustainable living tracker app promoting eco-friendly actions with     challenges and rewards.  
+- 🔐 Auth App(https://github.com/Shruti4578/Auth_app_test.git) – Demo app showcasing authentication flows and REST API integration with mock backend.
 - 🎓 School App – A cross-platform school management system with separate student and teacher portals for academic record handling, secured using Firebase rules.  
   [SISStudentApp](https://github.com/Shruti4578/SISStudentApp--Student.git) | [SISTeacherApp](https://github.com/Shruti4578/SISTeacherApp--Teacher.git)
 
