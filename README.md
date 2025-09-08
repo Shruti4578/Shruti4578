@@ -23,6 +23,11 @@ Here are some of the projects I have worked on.
 - 🔐 Auth App(https://github.com/Shruti4578/Auth_app_test.git) – Demo app showcasing authentication flows and REST API integration with mock backend.
 - 🎓 School App – A cross-platform school management system with separate student and teacher portals for academic record handling, secured using Firebase rules.  
   [SISStudentApp](https://github.com/Shruti4578/SISStudentApp--Student.git) | [SISTeacherApp](https://github.com/Shruti4578/SISTeacherApp--Teacher.git)
+  
+   ## 🏅 Highlights  
+- 🎯 Developed 4+ cross-platform apps with Flutter & Dart  
+- 🏆 Built projects integrating REST APIs, Firebase, and real-time data  
+- 📚 Always learning and improving skills in mobile development  
 
 ## 📈 GitHub Stats
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti4578&show_icons=true&theme=radical)  
