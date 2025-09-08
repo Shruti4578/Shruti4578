@@ -18,7 +18,7 @@ Here are some of the projects I have worked on.
   [SISStudentApp](https://github.com/Shruti4578/SISStudentApp--Student.git) | [SISTeacherApp](https://github.com/Shruti4578/SISTeacherApp--Teacher.git)
   
    ## 🏅 Highlights  
-- 🎯 Developed 3+ cross-platform apps with Flutter & Dart  
+- 🎯 Developed 2+ cross-platform apps with Flutter & Dart  and 1 with Java and Firebase. 
 - 🏆 Built projects integrating REST APIs, Firebase, and real-time data  
 - 📚 Always learning and improving skills in mobile development
 - 
