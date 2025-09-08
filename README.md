@@ -9,13 +9,6 @@
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti4578&layout=compact&theme=radical)
 
-## 🛠 Tools and Skills
-- **Languages & Frameworks:**  Dart, Java, C, C++, Kotlin,Flutter
-- **Version Control:**  Git, GitHub
-- **Databases:**  Firebase Realtime Database(CRUD, queries,connectivity)  
-- **Cloud & Platforms:** Firebase Cloud Messaging, Windows, Linux(basics)
-- **Core Concepts:** SDLC, REST API Integration, OOP, Debugging, Team Collaboration.
-
 📂 Projects
 Here are some of the projects I have worked on.
 
@@ -29,18 +22,18 @@ Here are some of the projects I have worked on.
 - 🏆 Built projects integrating REST APIs, Firebase, and real-time data  
 - 📚 Always learning and improving skills in mobile development
 
-  ## 🛠 Tools and Skills  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+ ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 
 ## 📈 GitHub Stats
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti4578&show_icons=true&theme=radical)  
