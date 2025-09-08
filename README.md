@@ -21,7 +21,8 @@ Here are some of the projects I have worked on.
 - 🎯 Developed 3+ cross-platform apps with Flutter & Dart  
 - 🏆 Built projects integrating REST APIs, Firebase, and real-time data  
 - 📚 Always learning and improving skills in mobile development
-
+- 
+## 🛠 Tools and Skills  
  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
