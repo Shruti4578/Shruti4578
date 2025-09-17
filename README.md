@@ -1,6 +1,6 @@
-## Shruti Verma
+## shruti verma
 
-**Aspiring Flutter Developer | Building Cross-Platform Mobile Apps**
+**Flutter Developer | Building Cross-Platform Mobile Apps**
 
 - 🔭I build efficient, user-friendly, and impactful mobile applications using **Flutter and Dart**.
 - 🌱 Focused on delivering apps that solve real-world problems with clean UI and smooth performance.
