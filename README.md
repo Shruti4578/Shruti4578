@@ -1,4 +1,4 @@
-## shruti verma
+## Shruti Verma
 
 **Flutter Developer | Building Cross-Platform Mobile Apps**
 
