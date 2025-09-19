@@ -1,6 +1,6 @@
 # 👩‍💻 Shruti Verma  
 
-**Flutter Developer | Building Cross-Platform Mobile Apps**  
+**Flutter Developer | Building Cross-Platform Mobile Applications**  
 
 ---
 
