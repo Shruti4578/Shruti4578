@@ -24,7 +24,9 @@
 ---
 
 ## 🏅 Achievements & Certifications
-- 🎓 **Google Cybersecurity Certificate** – Completed professional course covering security fundamentals, network defense, and incident response.  
+- 🎓 **Google Cybersecurity Certificate** – Completed professional course covering security fundamentals, network defense, and incident response.
+                    Google Cybersecurity Professional Certificate
+                           [View Certificate]
 - 🎯 Developed **2 cross-platform apps** with Flutter & Dart, and **1 with Java & Firebase**.  
 - 🏆 Experience integrating **REST APIs, Firebase, and real-time data**.  
 - 📚 Always learning and improving skills in mobile development.  
