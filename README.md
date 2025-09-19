@@ -33,8 +33,14 @@ Here are some of the projects I have worked on.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+## 💡 Other Skills  
+- 🟦 **State Management (Provider)**  
+- 🌐 **REST API Integration**  
+- 📈 **Agile/Scrum Methodologies**  
+- ⚙️ **Object-Oriented Programming (OOP)**  
+- 🧩 **Problem-Solving**  
+- 🤝 **Team Collaboration**  
 
 ## 📈 GitHub Stats
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti4578&show_icons=true&theme=radical)  
