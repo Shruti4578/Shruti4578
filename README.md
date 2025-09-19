@@ -68,7 +68,7 @@
 ---
 
 ## 🎨 Fun Facts  
-- 🖌️ Love doing backend, but not good in this but still. 
+- 🖌️ Love working on backend, but not good in this but still I'm trying to be good and then better. 
 - 🌱 Believe technology can drive sustainability.  
 
 ---
