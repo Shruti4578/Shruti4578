@@ -24,7 +24,7 @@
 ---
 
 ## 🏅 Highlights  
-- 🎯 Developed **2+ cross-platform apps** with Flutter & Dart, and **1 with Java & Firebase**.  
+- 🎯 Developed **2 cross-platform apps** with Flutter & Dart, and **1 with Java & Firebase**.  
 - 🏆 Experience integrating **REST APIs, Firebase, and real-time data**.  
 - 📚 Always learning and improving skills in mobile development.  
 
@@ -55,10 +55,10 @@
 ---
 
 ## 🎯 Current Focus  
-- 📱 Mastering **Flutter animations & performance optimization**  
-- ☁️ Exploring **Cloud Firestore & Firebase Functions**  
+- 📱 Mastering **Flutter & Dart in a depth manner.**  
+- ☁️ Exploring **other languages like which i know only basic like C++, MySql etc.**  
 - 🔍 Enhancing **UI/UX skills** for better app design  
-- 🏆 Preparing for **internships & collaborative projects**  
+- 🏆 Preparing for **job & collaborative projects**  
 
 ---
 
@@ -68,8 +68,7 @@
 ---
 
 ## 🎨 Fun Facts  
-- 🖌️ Love designing UIs as much as coding them.  
-- 🎶 Music helps me get into the perfect coding flow.  
+- 🖌️ Love doing backend, but not good in this but still. 
 - 🌱 Believe technology can drive sustainability.  
 
 ---
