@@ -1,6 +1,6 @@
 # 👩‍💻 Shruti Verma  
 
-**Application Developer | Building Applications**  
+**Flutter Developer| Building Applications**  
 
 ---
 
