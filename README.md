@@ -56,7 +56,7 @@
 
 ---
 
-## 🎯 Current Focus  
+## 🎯 Current Focus
 - 📱 Mastering **Flutter & Dart in a depth manner.**  
 - ☁️ Exploring **other languages like which i know only basic like C++, MySql etc.**  
 - 🔍 Enhancing **UI/UX skills** for better app design  
