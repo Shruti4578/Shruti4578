@@ -4,19 +4,19 @@
 
 ---
 
-## 👋 About Me  
-- 💡 Passionate about building impactful apps that make everyday life easier.  
+## 👋 About Me
+- 💡 Passionate about building impactful apps that make everyday life easier. 
 - 🚀 Currently deepening my knowledge in Dart and Flutter to strengthen my foundation and bridge the gap between what I know and what I have yet to master.  
 - ✨ Motto: *"Code with purpose, design with empathy."*  
 
 ---
 
-## 🏆 Top Languages  
+## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti4578&layout=compact&theme=radical)  
 
 ---
 
-## 📂 Projects  
+## 📂 Projects 
 
 - 🌱 [**GreenLife: Sustainable Living Tracker**](https://github.com/Shruti4578/Green-Life-A-Sustainable-Living-Tracker-App.git) – Promotes eco-friendly actions with challenges and rewards.  
 - 🔐 [**Auth App**](https://github.com/Shruti4578/Auth_app_test.git) – Authentication flows with REST API integration and mock backend. 
