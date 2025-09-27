@@ -64,7 +64,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti4578&show_icons=true&theme=radical)  
 
 ---
