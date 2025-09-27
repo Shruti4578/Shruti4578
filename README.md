@@ -46,7 +46,7 @@
 
 ---
 
-## 💡 Other Skills  
+## 💡 Other Skills
 - 🟦 **State Management (Provider)**  
 - 🌐 **REST API Integration**  
 - 📈 **Agile/Scrum Methodologies**  
