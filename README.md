@@ -1,4 +1,4 @@
-# 👩‍💻 Shruti Verma
+# 👩‍💻 Si Verma
 
 **Flutter Developer| Building Applications**  
 
