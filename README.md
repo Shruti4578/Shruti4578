@@ -28,7 +28,7 @@
                     Google Cybersecurity Professional Certificate[https://www.linkedin.com/posts/shruti-verma-a6653a261_completion-certificate-for-google-cybersecurity-activity-7263061278087094272-YM_R?utm_source=share&utm_medium=member_android&rcm=ACoAAEBUSG4BMzR8doq_60YUUfbDPuKNky451KY]
 - 🎯 Developed **2 cross-platform apps** with Flutter & Dart, and **1 with Java & Firebase**.  
 - 🏆 Experience integrating **REST APIs, Firebase, and real-time data**.  
-- 📚 Always learning and improving skills in mobile development.  
+- 📚 Always learning and improving skills in mobile development. 
 
 ---
 
