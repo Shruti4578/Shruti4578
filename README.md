@@ -16,7 +16,7 @@
 
 ---
 
-## 📂 Projects 
+## 📂 Projects
 
 - 🌱 [**GreenLife: Sustainable Living Tracker**](https://github.com/Shruti4578/Green-Life-A-Sustainable-Living-Tracker-App.git) – Promotes eco-friendly actions with challenges and rewards.  
 - 🔐 [**Auth App**](https://github.com/Shruti4578/Auth_app_test.git) – Authentication flows with REST API integration and mock backend. 
