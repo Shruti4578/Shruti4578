@@ -11,7 +11,7 @@
 
 ---
 
-## 🏆 Top Language
+## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti4578&layout=compact&theme=radical)  
 
 ---
