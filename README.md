@@ -4,8 +4,8 @@
 
 ---
 
-## 👋 About Me 
-- 💡 Passionate about building impactful apps that make everyday life easier. 
+## 👋 About Me
+- 💡 Passionate about building impactful apps that make everyday life easier.
 - 🚀 Currently deepening my knowledge in Dart and Flutter to strengthen my foundation and bridge the gap between what I know and what I have yet to master.  
 
 
