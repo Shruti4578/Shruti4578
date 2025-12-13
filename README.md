@@ -1,4 +1,4 @@
-# 👩‍💻 Shruti Verma
+# 👩‍💻 Shruti Verma(iOS Developer)
 **Flutter Developer| Building Applications**  
 
 ---
